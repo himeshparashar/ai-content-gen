@@ -61,6 +61,7 @@ Ensure you have the following installed on your machine:
 
     ```bash
     npm install
+    npm install @clerk/nextjs@latest @clerk/clerk-react@latest
     ```
 
     Or using yarn:
